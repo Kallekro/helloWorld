@@ -1,2 +1,1 @@
-# helloWorld
-firstRep
+This is the first readme yay
